@@ -1,4 +1,5 @@
 # ComponentsJava
+[Ver el informe en PDF](Components.pdf)
 
 Proyecto educativo en Java sobre arquitectura de componentes. Usa el escenario de *Component Quest* para mostrar cómo las dependencias innecesarias y los ciclos entre módulos dificultan la compilación, el empaquetado y la reutilización. La versión refactorizada separa los módulos y los conecta mediante archivos JAR e interfaces.
 
