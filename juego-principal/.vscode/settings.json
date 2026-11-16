@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-botas/modulo-botas.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-casco/modulo-casco.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-espada/modulo-espada.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-peto/modulo-peto.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-botas/botas-v1.0.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-espada/espada-v1.0.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-peto/peto-v1.0.jar",
+        "/home/bl4ckm0on/UniversityProjects/ComponentsJava/modulo-casco/casco-v1.0.jar"
+    ]
+}
